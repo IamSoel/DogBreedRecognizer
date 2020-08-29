@@ -1,20 +1,20 @@
-#**Dog Breed Classification**
+# **Dog Breed Classification**
 
 This notebook builds an image classifier using Tensorflow 2.x and Tensorflow Hub.
 
-##1. Problem:
+## 1. Problem:
 
 Idenify a image of a dog given an image of a dog.
 
-##2. Data:
+## 2. Data:
 
 We are using the data from kaggle's dog breed identification competition.
 
-##3. Evaluation:
+## 3. Evaluation:
 
 Evaluation is a file with prediction probabilities for each dog breed of each test image.
 
-##4. Features:
+## 4. Features:
 
 Some information about the data are :-
 
